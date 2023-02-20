@@ -4,7 +4,7 @@ $pkg update && pkg upgrade
 
 $git clone https://github.com/astanex112/prem
 
-$cd Crack-Prem
+$cd prem
 
 $pip install -r requirements.txt
 
