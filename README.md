@@ -12,7 +12,7 @@ $python run.py
 
 # Cara Update
 
-$cd Crack-Prem
+$cd prem
 
 $git pull
 
