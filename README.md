@@ -2,7 +2,7 @@
 
 $pkg update && pkg upgrade
 
-$git clone https://github.com/iky-xd/Crack-Prem.git
+$git clone https://github.com/astanex112/prem
 
 $cd Crack-Prem
 
